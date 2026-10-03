@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+~$*
+*.tmp
+
+# Herramienta interna para generar el informe y copias locales; no forman parte del entregable
+report/
+Informe_*.html
+data/
+tests/
+resultados/
+figures/
